@@ -3,7 +3,7 @@
     "category": "Entertainment: Music",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "The song &quot;Twin Size Mattress&quot; was written by which band?",
+    "question": "The song 'Twin Size Mattress'; was written by which band?",
     "correct_answer": "The Front Bottoms",
     "answers": [
       "The Front Bottoms",
@@ -16,7 +16,7 @@
     "category": "Vehicles",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Which Japanese company is the world&#039;s largest manufacturer of motorcycles?",
+    "question": "Which Japanese company is the world's largest manufacturer of motorcycles?",
     "correct_answer": "Honda",
     "answers": [
       "Yamaha",
@@ -55,7 +55,7 @@
     "category": "General Knowledge",
     "type": "boolean",
     "difficulty": "medium",
-    "question": "The term &quot;Spam&quot; came before the food product &quot;Spam&quot;.",
+    "question": "The term 'Spam' came before the food product 'Spam'.",
     "correct_answer": "False",
     "answers": [
       "True",
@@ -66,7 +66,7 @@
     "category": "Entertainment: Television",
     "type": "multiple",
     "difficulty": "easy",
-    "question": "In the show Stranger Things, what is Eleven&#039;s favorite breakfast food?",
+    "question": "In the show Stranger Things, what is Eleven's favorite breakfast food?",
     "correct_answer": "Eggo Waffles",
     "answers": [
       "Toast",
@@ -229,7 +229,7 @@
     "category": "Science: Computers",
     "type": "multiple",
     "difficulty": "medium",
-    "question": "Which internet company began life as an online bookstore called &#039;Cadabra&#039;?",
+    "question": "Which internet company began life as an online bookstore called 'Cadabra'?",
     "correct_answer": "Amazon",
     "answers": [
       "eBay",
